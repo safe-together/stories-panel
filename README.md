@@ -20,7 +20,7 @@ to propose a project for the panel to undertake.
 ## NEXT MEETING
 
 Il prossimo meeting è previsto alle ore martedi 14 ore 9.00 su http://meeting.quintarelli.it/
-la durata del meeting è prevista in un paio di ore e sarà focalizzato sulle user stories relative all'appluicazione di
+la durata del meeting è prevista in un paio di ore e sarà focalizzato sulle user stories relative all'applicazione di
 supporto al cordone sanitario,
 
 L' ODG provvisorio è il seguente:
@@ -29,3 +29,4 @@ L' ODG provvisorio è il seguente:
 - identificazione di eventuali nuove storie/personas
 - valutazione della tecnologia da adottare per la certificazione degli immuni.
 - eventuali requisiti architetturali
+- eventuali suddivisioni dei compiti
