@@ -17,7 +17,7 @@ For contributing members see the
 [Submit an issue](https://github.com/safe-together/specification/issues)
 to propose a project for the panel to undertake.
 
-## Meetings
+## NEXT MEETING
 
 Il prossimo meeting è previsto alle ore martedi 14 ore 9.00 su http://meeting.quintarelli.it/
 la durata del meeting è prevista in un paio di ore e sarà focalizzato sulle user stories relative all'appluicazione di
