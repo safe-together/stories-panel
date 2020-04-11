@@ -14,8 +14,8 @@ For contributing members see the
 
 ## Projects
 
-[Submit an issue](https://github.com/safe-together/specification/issues)
-to propose a project for the panel to undertake.
+[Submit an issue](https://github.com/safe-together/stories-panel/issues)
+to propose changes to this panel.
 
 ## NEXT MEETING
 
