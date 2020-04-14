@@ -15,7 +15,7 @@ In ordine di preferenza:
 
 ## NEXT MEETINGS:
 
-Martedì dalle 8:30 alle 9:30 su su http://meeting.quintarelli.it/ (stanza zoom 3487123133)
+**Martedì 21 Aprile dalle 8:30 alle 9:30* su su http://meeting.quintarelli.it/ (stanza zoom 3487123133)
 
 ODG provvisorio:
 
