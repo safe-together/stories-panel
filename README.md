@@ -1,26 +1,29 @@
-# Notes from the stories panel
+# OPEN CHANNELS:
 
-[Join the #Slack channel](https://safetogether2020.slack.com/app_redirect?channel=stories)
+- [Join the #Slack channel](https://safetogether2020.slack.com/app_redirect?channel=stories)
+- **WEEKLY PANEL CALL**: tentativamente tutti i Martedì dalle 8:30 alle 9:30 su su http://meeting.quintarelli.it/ (stanza zoom 3487123133)
 
+Eventuali call tematiche organizzati alla bisogna.
 
-## NEXT PANEL MEETING
+# HOW TO CLOSE OPEN ISSUES:
 
-Il prossimo meeting è previsto alle ore martedi 14 ore 9.00 su http://meeting.quintarelli.it/ (stanza zoom 3487123133) password 3487123133 la durata del meeting è prevista in un paio di ore e sarà focalizzato sulle user stories relative all'applicazione di
-supporto al cordone sanitario,
+In ordine di preferenza:
 
-L' ODG provvisorio è il seguente:
+1. verificare eventuali [issues aperte](https://github.com/safe-together/stories-panel/issues), assegnate e o assegnarsene qualcuna, e chiuderla con l'emissione di pull request sulle specifiche (richiede una utenza GitHub)
+2. verificare le issue aperte sul [documento di specifica](https://safe-together.github.io/specification/stories)  e inviare i contributi via mail d uno degli editor delle [Storie](http://meeting.quintarelli.it/)
+3. come sopra ma riportare i contributi sul [canale #Slack](https://safetogether2020.slack.com/app_redirect?channel=stories) risordarndosi di aggiungere una mention (es. @Enrico Fagnoni) ad uno degli editor e l'hashtag #stories
 
-1. review del documento https://safe-together.github.io/specification/stories e analisi delle issue attive.
-2. demo applicazione quarante di Keyless
-3. identificazione di eventuali nuove storie/personas (tracing e altre)
-4. valutazione della tecnologia da adottare per la certificazione degli immuni.
-5. eventuali requisiti architetturali
-6. suddivisioni dei compiti
-   - chi fa l'editor del doc di specifica 
-   - chi edita le storie mancanti
-   - 
-7. next story meeting
+## NEXT MEETINGS:
 
+Martedì dalle 8:30 alle 9:30 su su http://meeting.quintarelli.it/ (stanza zoom 3487123133)
 
-[Submit an issue](https://github.com/safe-together/stories-panel/issues)
-to propose changes to this panel.
+ODG provvisorio:
+
+- review del documento https://safe-together.github.io/specification/stories e analisi delle issue attive.
+- stato dello sviluppo delle reference implementation
+- overview bozza architettura
+- ...
+
+## MEETING MINUTES
+
+- [2020-04-14 9:00  Panel Call](meeting-minutes/202004140900-panel-call)
