@@ -9,7 +9,7 @@ Eventuali call tematiche organizzati alla bisogna.
 
 In ordine di preferenza:
 
-1. verificare eventuali [issues aperte](https://github.com/safe-together/stories-panel/issues) assegnate o assegnarsene qualcuna,  chiuderla con l'emissione di pull request sulle specifiche
+1. verificare eventuali [issues aperte](https://github.com/safe-together/stories/issues) assegnate o assegnarsene qualcuna,  chiuderla con l'emissione di pull request sulle specifiche
 2. verificare le issue aperte sul [documento di specifica](https://safe-together.github.io/specification/stories)  e inviare i contributi via mail d uno degli editor delle [Storie](http://meeting.quintarelli.it/)
 3. come sopra ma riportare i contributi sul [canale #Slack](https://safetogether2020.slack.com/app_redirect?channel=stories) risordarndosi di aggiungere una mention (es. @Enrico Fagnoni) ad uno degli editor e l'hashtag #stories
 
