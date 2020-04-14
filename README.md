@@ -26,4 +26,4 @@ ODG provvisorio:
 
 ## MEETING MINUTES
 
-- [2020-04-14 9:00  Panel Call](meeting-minutes/202004140900-panel-call)
+- [2020-04-14 9:00  Panel Call](meeting-minutes/202004140900-panel-call.md)
