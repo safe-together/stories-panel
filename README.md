@@ -15,11 +15,11 @@ In ordine di preferenza:
 
 ## NEXT MEETINGS:
 
-Martedì dalle 8:30 alle 9:30 su su http://meeting.quintarelli.it/ (stanza zoom 3487123133)
+Martedì 28 dalle 8:30 alle 9:30 su su http://meeting.quintarelli.it/ (stanza zoom 3487123133)
 
 ODG provvisorio:
 
-- review del documento https://safe-together.github.io/specification/stories e analisi delle issue attive.
+- review del documento https://safe-together.github.io/specification/stories e analisi delle issue chiuse e attive.
 - stato dello sviluppo delle reference implementation
 - overview bozza architettura
 - ...
@@ -27,3 +27,4 @@ ODG provvisorio:
 ## MEETING MINUTES
 
 - [2020-04-14 9:00  Panel Call](meeting-minutes/202004140900-panel-call.md)
+- [2020-04-21 8:30  Panel Call](meeting-minutes/202004210830-panel-call.md)
