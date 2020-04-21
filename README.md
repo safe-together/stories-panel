@@ -32,5 +32,5 @@ Aprite una [issue su quesro repository](https://github.com/safe-together/stories
 
 ## MEETING MINUTES ARCHIVE
 
-- [2020-04-14 9:00  Panel Call](meeting-minutes/202004140900-panel-call.md)
 - [2020-04-21 8:30  Panel Call](meeting-minutes/202004210830-panel-call.md)
+- [2020-04-14 9:00  Panel Call](meeting-minutes/202004140900-panel-call.md)
