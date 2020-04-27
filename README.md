@@ -16,18 +16,18 @@ In ordine di preferenza:
 ## NEXT PANEL CALL
 
 
-**Martedì 21 Aprile dalle 8:30 alle 9:30** 
+**Martedì 28 Aprile dalle 8:30 alle 9:30** 
 su http://meeting.quintarelli.it/ (stanza zoom 3487123133)
 
 
-ODG provvisorio:
+ODG:
 
 - review del documento https://safe-together.github.io/specification/stories e analisi delle issue chiuse e attive.
-- stato dello sviluppo delle reference implementation
-- overview bozza architettura
-- ...
+- stato dello sviluppo delle reference implementation di Shielding
+- raccolta note su implementazione demo quarantine
+- pianificazione sviluppi e date rilascio di shielding
 
-Aprite una [issue su quesro repository](https://github.com/safe-together/stories-panel/issues) per proporre un argomento.
+Aprite una [issue su questo repository](https://github.com/safe-together/stories-panel/issues) per proporre un argomento.
 
 
 ## MEETING MINUTES ARCHIVE
