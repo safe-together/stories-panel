@@ -16,21 +16,24 @@ In ordine di preferenza:
 ## NEXT PANEL CALL
 
 
-**Martedì 28 Aprile dalle 8:30 alle 9:30** 
+**Martedì 5 Maggio dalle 8:30 alle 9:30** 
 su http://meeting.quintarelli.it/ (stanza zoom 3487123133)
 
+A seguire meeting grupo Shielding
 
 ODG:
 
 - review del documento https://safe-together.github.io/specification/stories e analisi delle issue chiuse e attive.
-- stato dello sviluppo delle reference implementation di Shielding
-- raccolta note su implementazione demo quarantine
-- pianificazione sviluppi e date rilascio di shielding
+- review protocollo e architettura
+- demo video per shielding
+- definizione data rilascio  sviluppo sisyema shielding
 
-Aprite una [issue su questo repository](https://github.com/safe-together/stories-panel/issues) per proporre un argomento.
+AAprite una [issue su questo repository](https://github.com/safe-together/stories-panel/issues) per proporre un argomento.
 
 
 ## MEETING MINUTES ARCHIVE
 
+
+- [2020-04-28 8:30  Panel Call](meeting-minutes/202004280830-panel-call.md)
 - [2020-04-21 8:30  Panel Call](meeting-minutes/202004210830-panel-call.md)
 - [2020-04-14 9:00  Panel Call](meeting-minutes/202004140900-panel-call.md)
