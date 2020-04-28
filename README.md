@@ -34,6 +34,6 @@ AAprite una [issue su questo repository](https://github.com/safe-together/storie
 ## MEETING MINUTES ARCHIVE
 
 
-- [2020-04-28 8:30  Panel Call](meeting-minutes/202004280830-panel-call.md)
+- **[2020-04-28 8:30  Panel Call](meeting-minutes/202004280830-panel-call.md)  <-- last meeting**
 - [2020-04-21 8:30  Panel Call](meeting-minutes/202004210830-panel-call.md)
 - [2020-04-14 9:00  Panel Call](meeting-minutes/202004140900-panel-call.md)
