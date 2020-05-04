@@ -26,7 +26,7 @@ ODG:
 - review del documento https://safe-together.github.io/specification/stories e analisi delle issue chiuse e attive.
 - review protocollo e architettura
 - demo video per shielding
-- definizione data rilascio  sviluppo sisyema shielding
+- definizione data rilascio  sviluppo sistema shielding
 
 AAprite una [issue su questo repository](https://github.com/safe-together/stories-panel/issues) per proporre un argomento.
 
