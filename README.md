@@ -28,7 +28,7 @@ ODG:
 - demo video per shielding
 - definizione data rilascio  sviluppo sistema shielding
 
-AAprite una [issue su questo repository](https://github.com/safe-together/stories-panel/issues) per proporre un argomento.
+Aprite una [issue su questo repository](https://github.com/safe-together/stories-panel/issues) per proporre un argomento.
 
 
 ## MEETING MINUTES ARCHIVE
