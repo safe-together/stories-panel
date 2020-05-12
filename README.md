@@ -16,7 +16,7 @@ In ordine di preferenza:
 ## NEXT PANEL CALL
 
 
-**Martedì 12 Maggio dalle 8:30AM  alle 9:30AM** 
+**Martedì 19 Maggio dalle 8:30AM  alle 9:30AM** 
 su http://meeting.quintarelli.it/ (stanza zoom 3487123133)
 
 A seguire meeting allineamento team Shielding
@@ -34,7 +34,8 @@ Aprite una [issue su questo repository](https://github.com/safe-together/stories
 ## MEETING MINUTES ARCHIVE
 
 
-- **[2020-05-05 8:30  Panel Call](meeting-minutes/202004280830-panel-call.md)  <-- last meeting**
+- **[2020-05-12 8:30  Panel Call](meeting-minutes/202005120830-panel-call.md)  <-- last meeting**
+- [2020-05-05 8:30  Panel Call](meeting-minutes/202005050830-panel-call.md)
 - [2020-04-28 8:30  Panel Call](meeting-minutes/202004280830-panel-call.md)
 - [2020-04-21 8:30  Panel Call](meeting-minutes/202004210830-panel-call.md)
 - [2020-04-14 9:00  Panel Call](meeting-minutes/202004140900-panel-call.md)
