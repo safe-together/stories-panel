@@ -23,7 +23,7 @@ A seguire meeting allineamento team Shielding
 
 ODG:
 
-- review del documento https://safe-together.github.io/specification/stories e analisi delle issue chiuse e attive.
+- rpianificazione per il rilasco della prima versione del documento https://safe-together.github.io/specification/stories.
 - review protocollo e architettura
 - verifica stato sviluppo sistema shielding
 
