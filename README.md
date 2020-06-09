@@ -16,24 +16,23 @@ In ordine di preferenza:
 ## NEXT PANEL CALL
 
 
-**Martedì 2 Giugno dalle 8:30AM  alle 9:30AM** 
+**Martedì 16 Giugno dalle 8:30AM  alle 9:30AM** 
 su http://meeting.quintarelli.it/ (stanza zoom 3487123133)
 
 A seguire meeting allineamento team Shielding.
 
 ODG:
 
-- stato review https://safe-together.github.io/specification/stories e pianificazione release draft
-- verifica stato sviluppo sistema shielding
+- stato review https://safe-together.github.io/specification/stories
+- demo sistema shielding
 
 Aprite una [issue su questo repository](https://github.com/safe-together/stories-panel/issues) per proporre un argomento.
 
 
 ## MEETING MINUTES ARCHIVE
 
-202005260830-panel-call.md
-
-- **[2020-05-26 8:30  Panel Call](meeting-minutes/202005260830-panel-call.md)  <-- last meeting**
+- **[2020-06-09 8:30  Panel Call](meeting-minutes/202006090830-panel-call.md)  <-- last meeting**
+- [2020-05-26 8:30  Panel Call](meeting-minutes/202005260830-panel-call.md)
 - [2020-05-19 8:30  Panel Call](meeting-minutes/202005190830-panel-call.md)
 - [2020-05-12 8:30  Panel Call](meeting-minutes/202005120830-panel-call.md)
 - [2020-05-05 8:30  Panel Call](meeting-minutes/202005050830-panel-call.md)
