@@ -13,25 +13,13 @@ In ordine di preferenza:
 2. verificate le issue aperte dentro il [documento di specifica](https://safe-together.github.io/specification/stories) e inviate eventuali contributi via email a uno degli editor 
 3. come sopra ma, al posto della email, riportate i contributi sul [canale #Slack](https://safetogether2020.slack.com/app_redirect?channel=stories) ricordandosi di aggiungere una mention (es. @Enrico Fagnoni) ad uno degli editor.
 
-## NEXT PANEL CALL
 
-
-**Martedì 16 Giugno dalle 8:30AM  alle 9:30AM** 
-su http://meeting.quintarelli.it/ (stanza zoom 3487123133)
-
-A seguire meeting allineamento team Shielding.
-
-ODG:
-
-- stato review https://safe-together.github.io/specification/stories
-- demo sistema shielding
-
-Aprite una [issue su questo repository](https://github.com/safe-together/stories-panel/issues) per proporre un argomento.
+**Gli incontri settimanali sono sospesi***
 
 
 ## MEETING MINUTES ARCHIVE
 
-- **[2020-06-09 8:30  Panel Call](meeting-minutes/202006090830-panel-call.md)  <-- last meeting**
+- [2020-06-09 8:30  Panel Call](meeting-minutes/202006090830-panel-call.md)
 - [2020-05-26 8:30  Panel Call](meeting-minutes/202005260830-panel-call.md)
 - [2020-05-19 8:30  Panel Call](meeting-minutes/202005190830-panel-call.md)
 - [2020-05-12 8:30  Panel Call](meeting-minutes/202005120830-panel-call.md)
